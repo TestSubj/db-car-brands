@@ -1,0 +1,60 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Ford",
+        "description": "Ford Motor Company, founded in 1903 by Henry Ford, is one of the oldest and largest automakers in the United States. The company specializes in passenger vehicles, commercial trucks, and pickups. Its headquarters is located in Dearborn, Michigan, and it is still managed in part by the Ford family."
+      },
+      {
+        "id": 2,
+        "brand": "Kia",
+        "description": "Kia Corporation is a South Korean automaker founded in 1944. It is a subsidiary of Hyundai Motor Group. Kia is known for producing affordable, stylish, and technology-driven vehicles. Its headquarters is in Seoul, South Korea."
+      },
+      {
+        "id": 3,
+        "brand": "Chevrolet",
+        "description": "Chevrolet is an American car brand founded in 1911 by Louis Chevrolet and William C. Durant. It is a division of General Motors and offers a wide range of passenger cars, SUVs, and trucks. The brand is headquartered in Detroit, Michigan."
+      },
+      {
+        "id": 4,
+        "brand": "Volkswagen",
+        "description": "Volkswagen AG is a German automotive company founded in 1937. Headquartered in Wolfsburg, Germany, it is one of the largest car manufacturers in the world and owns brands like Audi, Porsche, Skoda, Seat, and Lamborghini."
+      },
+      {
+        "id": 5,
+        "brand": "Hundai",
+        "description": "Hyundai Motor Company, founded in 1967, is a major South Korean automaker and one of the largest in the world. It owns Kia and is known for innovation and value-driven vehicles. The company is headquartered in Seoul, South Korea."
+      },
+      {
+        "id": 6,
+        "brand": "Mitsubishi",
+        "description": "Mitsubishi Motors Corporation is a Japanese automaker established in 1970 as part of the larger Mitsubishi Group. It produces a variety of vehicles and is part of the Renault-Nissan-Mitsubishi Alliance."
+      },
+      {
+        "id": 7,
+        "brand": "Mercedes",
+        "description": "Mercedes-Benz is a German luxury automotive brand founded in 1926 through the merger of Benz & Cie and Daimler-Motoren-Gesellschaft. Now part of Mercedes-Benz Group, it focuses on high-end vehicles, commercial vans, and electric mobility."
+      },
+      {
+        "id": 8,
+        "brand": "Audi",
+        "description": "Audi AG is a German premium automobile manufacturer founded in 1909. A subsidiary of Volkswagen Group, it is headquartered in Ingolstadt, Germany, and known for high quality, advanced technology, and modern design."
+      },
+      {
+        "id": 9,
+        "brand": "Skoda",
+        "description": "Škoda Auto is a Czech car manufacturer founded in 1895 as Laurin & Klement. It became part of Volkswagen Group in 1991. Skoda is known for reliable, well-priced cars with strong European presence."
+      },
+      {
+        "id": 10,
+        "brand": "Peugeot",
+        "description": "Peugeot is a French automobile brand established in 1810 as a manufacturer of tools and bicycles, and began making cars in 1889. It is now part of Stellantis, which includes brands like Fiat, Chrysler, and Citroën."
+      },
+      {
+        "id": 11,
+        "brand": "Opel",
+        "description": "Opel is a German carmaker founded in 1862 and started producing cars in 1899. Formerly owned by General Motors, it became part of Stellantis in 2017. Opel specializes in passenger and light commercial vehicles."
+      }
+    ]
+  }
+  
