@@ -1,59 +1,114 @@
 {
-    "cars": [
+    "brands": [
       {
-        "id": 1,
         "brand": "Ford",
-        "description": "Ford Motor Company, founded in 1903 by Henry Ford, is one of the oldest and largest automakers in the United States. The company specializes in passenger vehicles, commercial trucks, and pickups. Its headquarters is located in Dearborn, Michigan, and it is still managed in part by the Ford family."
+        "models": [
+          { "name": "F-150", "price": 35000, "year": 1948 },
+          { "name": "Mustang", "price": 29000, "year": 1964 },
+          { "name": "Explorer", "price": 33000, "year": 1990 },
+          { "name": "Escape", "price": 28000, "year": 2000 },
+          { "name": "Edge", "price": 31000, "year": 2006 }
+        ]
       },
       {
-        "id": 2,
         "brand": "Kia",
-        "description": "Kia Corporation is a South Korean automaker founded in 1944. It is a subsidiary of Hyundai Motor Group. Kia is known for producing affordable, stylish, and technology-driven vehicles. Its headquarters is in Seoul, South Korea."
+        "models": [
+          { "name": "Sportage", "price": 27000, "year": 1993 },
+          { "name": "Sorento", "price": 31000, "year": 2002 },
+          { "name": "Optima", "price": 25000, "year": 2000 },
+          { "name": "Soul", "price": 21000, "year": 2008 },
+          { "name": "Telluride", "price": 34000, "year": 2019 }
+        ]
       },
       {
-        "id": 3,
         "brand": "Chevrolet",
-        "description": "Chevrolet is an American car brand founded in 1911 by Louis Chevrolet and William C. Durant. It is a division of General Motors and offers a wide range of passenger cars, SUVs, and trucks. The brand is headquartered in Detroit, Michigan."
+        "models": [
+          { "name": "Silverado", "price": 36000, "year": 1999 },
+          { "name": "Malibu", "price": 26000, "year": 1964 },
+          { "name": "Equinox", "price": 29000, "year": 2004 },
+          { "name": "Camaro", "price": 27000, "year": 1966 },
+          { "name": "Traverse", "price": 34000, "year": 2008 }
+        ]
       },
       {
-        "id": 4,
         "brand": "Volkswagen",
-        "description": "Volkswagen AG is a German automotive company founded in 1937. Headquartered in Wolfsburg, Germany, it is one of the largest car manufacturers in the world and owns brands like Audi, Porsche, Skoda, Seat, and Lamborghini."
+        "models": [
+          { "name": "Golf", "price": 24000, "year": 1974 },
+          { "name": "Passat", "price": 27000, "year": 1973 },
+          { "name": "Tiguan", "price": 29000, "year": 2007 },
+          { "name": "Jetta", "price": 25000, "year": 1979 },
+          { "name": "Atlas", "price": 33000, "year": 2017 }
+        ]
       },
       {
-        "id": 5,
         "brand": "Hundai",
-        "description": "Hyundai Motor Company, founded in 1967, is a major South Korean automaker and one of the largest in the world. It owns Kia and is known for innovation and value-driven vehicles. The company is headquartered in Seoul, South Korea."
+        "models": [
+          { "name": "Elantra", "price": 21000, "year": 1990 },
+          { "name": "Sonata", "price": 24000, "year": 1985 },
+          { "name": "Tucson", "price": 26000, "year": 2004 },
+          { "name": "Santa Fe", "price": 29000, "year": 2000 },
+          { "name": "Palisade", "price": 35000, "year": 2018 }
+        ]
       },
       {
-        "id": 6,
         "brand": "Mitsubishi",
-        "description": "Mitsubishi Motors Corporation is a Japanese automaker established in 1970 as part of the larger Mitsubishi Group. It produces a variety of vehicles and is part of the Renault-Nissan-Mitsubishi Alliance."
+        "models": [
+          { "name": "Outlander", "price": 27000, "year": 2001 },
+          { "name": "Lancer", "price": 23000, "year": 1973 },
+          { "name": "Eclipse", "price": 25000, "year": 1989 },
+          { "name": "Mirage", "price": 17000, "year": 1978 },
+          { "name": "Pajero", "price": 32000, "year": 1982 }
+        ]
       },
       {
-        "id": 7,
         "brand": "Mercedes",
-        "description": "Mercedes-Benz is a German luxury automotive brand founded in 1926 through the merger of Benz & Cie and Daimler-Motoren-Gesellschaft. Now part of Mercedes-Benz Group, it focuses on high-end vehicles, commercial vans, and electric mobility."
+        "models": [
+          { "name": "C-Class", "price": 44000, "year": 1993 },
+          { "name": "E-Class", "price": 54000, "year": 1993 },
+          { "name": "S-Class", "price": 76000, "year": 1972 },
+          { "name": "GLC", "price": 51000, "year": 2015 },
+          { "name": "GLE", "price": 57000, "year": 1997 }
+        ]
       },
       {
-        "id": 8,
         "brand": "Audi",
-        "description": "Audi AG is a German premium automobile manufacturer founded in 1909. A subsidiary of Volkswagen Group, it is headquartered in Ingolstadt, Germany, and known for high quality, advanced technology, and modern design."
+        "models": [
+          { "name": "A3", "price": 35000, "year": 1996 },
+          { "name": "A4", "price": 39000, "year": 1994 },
+          { "name": "A6", "price": 49000, "year": 1994 },
+          { "name": "Q5", "price": 45000, "year": 2008 },
+          { "name": "Q7", "price": 60000, "year": 2005 }
+        ]
       },
       {
-        "id": 9,
         "brand": "Skoda",
-        "description": "Škoda Auto is a Czech car manufacturer founded in 1895 as Laurin & Klement. It became part of Volkswagen Group in 1991. Skoda is known for reliable, well-priced cars with strong European presence."
+        "models": [
+          { "name": "Octavia", "price": 25000, "year": 1996 },
+          { "name": "Superb", "price": 31000, "year": 2001 },
+          { "name": "Fabia", "price": 20000, "year": 1999 },
+          { "name": "Kodiaq", "price": 35000, "year": 2016 },
+          { "name": "Scala", "price": 23000, "year": 2019 }
+        ]
       },
       {
-        "id": 10,
         "brand": "Peugeot",
-        "description": "Peugeot is a French automobile brand established in 1810 as a manufacturer of tools and bicycles, and began making cars in 1889. It is now part of Stellantis, which includes brands like Fiat, Chrysler, and Citroën."
+        "models": [
+          { "name": "208", "price": 22000, "year": 2012 },
+          { "name": "308", "price": 26000, "year": 2007 },
+          { "name": "3008", "price": 33000, "year": 2008 },
+          { "name": "5008", "price": 37000, "year": 2009 },
+          { "name": "2008", "price": 27000, "year": 2013 }
+        ]
       },
       {
-        "id": 11,
         "brand": "Opel",
-        "description": "Opel is a German carmaker founded in 1862 and started producing cars in 1899. Formerly owned by General Motors, it became part of Stellantis in 2017. Opel specializes in passenger and light commercial vehicles."
+        "models": [
+          { "name": "Corsa", "price": 21000, "year": 1982 },
+          { "name": "Astra", "price": 24000, "year": 1991 },
+          { "name": "Insignia", "price": 32000, "year": 2008 },
+          { "name": "Mokka", "price": 27000, "year": 2012 },
+          { "name": "Zafira", "price": 29000, "year": 1999 }
+        ]
       }
     ]
   }
